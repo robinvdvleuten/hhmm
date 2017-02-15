@@ -1,0 +1,28 @@
+{
+  "name": "hhmm",
+  "description": "Convert a digit time string to milliseconds: '22:17' → 80220000",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Robin van der Vleuten <robin@webstronauts.co>",
+  "homepage": "https://github.com/robinvdvleuten/hhmm#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinvdvleuten/hhmm"
+  },
+  "bugs": {
+    "url": "https://github.com/robinvdvleuten/hhmm/issues"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "README.md"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.18.0",
+    "standard": "^8.6.0"
+  }
+}
