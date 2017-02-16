@@ -1,7 +1,7 @@
 {
   "name": "hhmm",
   "description": "Convert a digit time string to milliseconds: '22:17' → 80220000",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Robin van der Vleuten <robin@webstronauts.co>",
   "homepage": "https://github.com/robinvdvleuten/hhmm#readme",
